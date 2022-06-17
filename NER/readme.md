@@ -17,5 +17,3 @@ Collected food data from social media groups and different articles on internet.
 ## Annotation
 
 These plain texts were annotated for FOOD label using an opensource Named Entity Recognizer (NER) - https://tecoholic.github.io/ner-annotator/
-
-[![NER Annotator](https://github.com/anmfahimfaisal/p-alpha/blob/main/NER/annotator.JPG "NER Annotator")](https://github.com/anmfahimfaisal/p-alpha/blob/main/NER/annotator.JPG "NER Annotator")
