@@ -2,9 +2,14 @@
 
 ## Dataset
 
-Collected food data from social media groups and different articles on internet.
-Most of the lines are collected from these pages:\
-\
-&nbsp;&nbsp;&nbsp;&nbsp; - [tasteatlas](https://www.tasteatlas.com/)\
-&nbsp;&nbsp;&nbsp;&nbsp; - [Bangladesh Eats](https://www.facebook.com/groups/BangladeshEats)\
-&nbsp;&nbsp;&nbsp;&nbsp; - [Eat book food reviews](https://eatbook.sg/category/food-reviews/)
+Collected food data from social media groups and different articles on internet. Most of the lines are collected from these pages:
+
+**1. Train set:**
+
+- [tasteatlas](https://www.tasteatlas.com/ "tasteatlas")
+- [Bangladesh Eats](https://www.facebook.com/groups/BangladeshEats "Bangladesh Eats")
+- [Eat book food reviews](https://eatbook.sg/category/food-reviews/ "-      Eat book food reviews")
+
+**2. Validation set:**
+
+- [7esl](https://7esl.com/food-vocabulary/ "7esl")
